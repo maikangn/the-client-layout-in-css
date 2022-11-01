@@ -1,6 +1,6 @@
-> _Fork_ deze deeltaak en ga aan de slag. Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. 
-De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
 # Layout in CSS
 
-Een oefening in document layout met CSS.
+Hierbij is mijn oefening in document layout met CSS te zien. Ik heb ervoor gekozen om alleen de basic layouts te maken.
+
+![layouts](https://user-images.githubusercontent.com/112856292/199349114-a2f8b489-5f65-4afb-b618-33eb4ee66288.png)
